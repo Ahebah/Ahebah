@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Ahebah! 👋
 
-<!--
-**Ahebah/Ahebah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a love for coding and learning new technologies. Here's a bit about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **[Learning Python]**
+- 🌱 I’m currently learning **[Python]**
+- 💬 Ask me about **[Anything]**
+- 📫 How to reach me: **[Drop me a DM]**
+- ⚡ Fun fact: **[Samuel 22:3]**
+
+## 🛠️ Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+
+## 📈 GitHub Stats
+
+![Ahebah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahebah&show_icons=true&theme=radical)
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahebah&layout=compact&theme=radical)
+
+---
+
+Thanks for visiting my profile! Have a great day! 😊
